@@ -8,7 +8,6 @@
 
 A powerful dashboard for analyzing workplace stress factors and their impacts across corporate dimensions.
 
-[Explore Demo](#) • [Report Bug](#) • [Request Feature](#)
 
 ---
 </div>
