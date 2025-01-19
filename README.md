@@ -204,12 +204,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p>
-👤 <i>Created by Your Name</i>
+👤 <i>Created by Tanishq Prabhu</i>
 </p>
 
 <p>
-📧 <a href="mailto:your.email@example.com">your.email@example.com</a> •
-🌐 <a href="https://github.com/yourusername">GitHub</a>
+📧 <a href="mailto:tanishqprabhu20@gmail.com">Gmail</a> •
+🌐 <a href="https://github.com/tanishq-ctrl">GitHub</a>
 </p>
 
 </div>
