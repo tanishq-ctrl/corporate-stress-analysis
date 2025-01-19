@@ -8,6 +8,9 @@
 
 A powerful dashboard for analyzing workplace stress factors and their impacts across corporate dimensions.
 
+<p align="center">
+  <img src="https://github.com/tanishq-ctrl/waste-classification/blob/main/static/WASTE-ezgif.com-video-to-gif-converter.gif" alt="Waste Management demo">
+</p>
 
 ---
 </div>
